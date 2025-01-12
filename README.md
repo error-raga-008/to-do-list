@@ -3,10 +3,10 @@
 This is a Python-based To-Do List application built using the Tkinter library for the graphical user interface (GUI). The application allows users to add, mark, and manage tasks easily.<br>
 Features:<br><br>
 
-Add a New Task: Users can enter a task and add it to their to-do list.<br>
-Mark Task Done: Users can mark a task as done by selecting it from the list.<br>
-Dynamic Task Management: The task list dynamically updates as tasks are added or completed.<br>
-User-Friendly UI: A simple and intuitive interface, making it easy to interact with the app.<br>
+Add a New Task: Users can enter a task and add it to their to-do list.<br><br>
+Mark Task Done: Users can mark a task as done by selecting it from the list.<br><br>
+Dynamic Task Management: The task list dynamically updates as tasks are added or completed.<br><br>
+User-Friendly UI: A simple and intuitive interface, making it easy to interact with the app.<br><br>
 
 Skills Gained:<br><br>
 
